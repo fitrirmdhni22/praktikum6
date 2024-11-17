@@ -1,3 +1,7 @@
+# FITRI RAMADHANI
+# TI.24.A.1
+# NIM: 312410085
+
 # Program mengelola data nilai mahasiswa
 Program ini untuk mengelola data nilai mahasiswa berdasarkan bobot nilai tugas, UTS, dan UAS yang telah ditentukan. Program ini juga menampilkan data mahasiswa dalam bentuk tabel.
 
