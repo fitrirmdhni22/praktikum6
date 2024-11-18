@@ -14,7 +14,7 @@ Program ini dirancang untuk mengelola data nilai mahasiswa secara sederhana. Pro
 -Mencari data mahasiswa:Pengguna dapat mencari data mahasiswa berdasarkan NIM.
 
 # Flowchart Program
-![Flowchart](https://github.com/fitrirmdhni22/praktikum5/blob/main/flowchartnilaiakhir.drawio.png?raw=true)
+![Flowchart](https://github.com/fitrirmdhni22/praktikum6/blob/main/flowchartdatamhs.drawio.png?raw=true)
 
 # Kode Program
 ```python
