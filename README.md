@@ -109,7 +109,7 @@ while True:
 ```
 
 # Output program
-```
+```python
 PS C:\Users\AXIOO\Documents\KULIAH\praktikum6 b.pemrograman> python -u "c:\Users\AXIOO\Documents\KULIAH\praktikum6 b.pemrograman\lab6.py"
 
 Program Input Nilai
